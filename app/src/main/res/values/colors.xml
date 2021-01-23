@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00B4DB</color>
+    <color name="colorPrimaryDark">#00B4DB</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="background">#E4F7BA</color>
+    <color name="scanDeviceColor">#E1F5EA</color>
+
+</resources>
